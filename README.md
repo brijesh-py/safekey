@@ -78,7 +78,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-[Brijesh Kumar] - [brijeshsoftdev@dock.com]
+[Brijesh Kumar] - [brijeshsoftdev@duck.com]
 
 Project Link: [https://github.com/brijesh-py/safekey]
 ```
