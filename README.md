@@ -1,4 +1,3 @@
-```markdown
 # SafeKey App
 
 A password management application built using React Vite for the frontend and Python Flask for the backend. Encryption is implemented using Flask-Simple-Crypt.
